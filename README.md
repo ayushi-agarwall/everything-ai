@@ -7,12 +7,20 @@ This page is like a roadmap: each section offers handpicked resources to build y
 
 Jump Right In 🚀
 🎓 Courses & Tutorials
+
 📜 Certifications
+
 📚 Books & Reading Lists
+
 🛠 Libraries & Frameworks
+
 🔬 Research Papers & Innovations
+
 🔧 Tools & Experimentation Platforms
+
 📊 Datasets 
+
 🤝 Communities & Networking
+
 📰 Newsletters & Blogs
 🎙️ Podcasts & Video Series
