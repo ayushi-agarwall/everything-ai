@@ -6,6 +6,7 @@ Hey there! 👋 If you’re curious about Generative AI—from building your fir
 This page is like a roadmap: each section offers handpicked resources to build your skills and deepen your understanding. No matter where you are in your journey, there's something here for you.
 
 Jump Right In 🚀
+
 🎓 Courses & Tutorials
 
 📜 Certifications
