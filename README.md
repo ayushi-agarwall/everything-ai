@@ -80,3 +80,83 @@ Jump Right In 🚀
 📰 Newsletters & Blogs
 
 🎙️ Podcasts & Video Series
+
+🌐 Channels to Follow
+
+| Name                                                | URL                                                        | Channel  |
+|-----------------------------------------------------|------------------------------------------------------------|----------|
+| AI Explained                                        | [Link](https://www.youtube.com/@aiexplained-official)      | YouTube  |
+| Andrej Karpathy                                     | [Link](https://www.youtube.com/@AndrejKarpathy)            | YouTube  |
+| Matt Wolfe                                          | [Link](https://www.youtube.com/@mreflow)                   | YouTube  |
+| AI Explained                                        | [Link](https://www.youtube.com/@aiexplained-official)      | YouTube  |
+| Two Minute Papers                                   | [Link](https://www.youtube.com/@TwoMinutePapers)           | YouTube  |
+| DeepLearningAI                                      | [Link](https://www.youtube.com/@Deeplearningai)            | YouTube  |
+| The AI Advantage                                    | [Link](https://www.youtube.com/@aiadvantage)               | YouTube  |
+| MattVidPro AI                                       | [Link](https://www.youtube.com/@MattVidPro)                | YouTube  |
+| Siraj Raval                                         | [Link](https://www.youtube.com/@SirajRaval)                | YouTube  |
+| StatQuest with Josh Starmer                         | [Link](https://www.youtube.com/c/joshstarmer/)             | YouTube  |
+| Krish Naik                                         | [Link](https://www.youtube.com/user/krishnaik06)           | YouTube  |
+| Simplilearn                                         | [Link](https://www.youtube.com/c/SimplilearnOfficial)      | YouTube  |
+| freeCodeCamp.org                                    | [Link](https://www.youtube.com/c/Freecodecamp)             | YouTube  |
+| edureka!                                            | [Link](https://www.youtube.com/c/edurekaIN)                | YouTube  |
+| Corey Schafer                                       | [Link](https://www.youtube.com/c/Coreyms)                  | YouTube  |
+| sentdex                                             | [Link](https://www.youtube.com/user/sentdex)               | YouTube  |
+| Yannic Kilcher                                      | [Link](https://www.youtube.com/@YannicKilcher)             | YouTube  |
+| Machine Learning Street Talk                        | [Link](https://www.youtube.com/@MachineLearningStreetTalk)  | YouTube  |
+| Lex Fridman                                         | [Link](https://www.youtube.com/@lexfridman)                | YouTube  |
+| bycloud                                             | [Link](https://www.youtube.com/@bycloudAI)                 | YouTube  |
+| Neptune AI                                          | [Link](https://www.youtube.com/@neptune_ai)                | YouTube  |
+| MIT HAN Lab                                        | [Link](https://www.youtube.com/@MITHANLab)                 | YouTube  |
+| 3Blue1Brown                                         | [Link](https://www.youtube.com/@3blue1brown)               | YouTube  |
+| Kaggle                                             | [Link](https://www.youtube.com/@kaggle)                    | YouTube  |
+| OpenAI                                             | [Link](https://www.youtube.com/@OpenAI)                    | YouTube  |
+| TheAIGRID                                          | [Link](https://www.youtube.com/@TheAiGrid)                 | YouTube  |
+| IBM Technology                                      | [Link](https://www.youtube.com/@IBMTechnology)              | YouTube  |
+| Shaw Talebi                                         | [Link](https://www.youtube.com/@ShawhinTalebi)             | YouTube  |
+| codebasics                                         | [Link](https://www.youtube.com/@codebasics)                | YouTube  |
+| Sam Witteveen                                       | [Link](https://www.youtube.com/@samwitteveenai/)           | YouTube  |
+| Chris Hay                                           | [Link](https://www.youtube.com/@chrishayuk)                | YouTube  |
+| Wes Roth                                            | [Link](https://www.youtube.com/@chrishayuk)                | YouTube  |
+| This Day in AI Podcast                              | [Link](https://www.youtube.com/@thisdayinai)               | YouTube  |
+| No Priors: AI, Machine Learning, Tech, & Startups   | [Link](https://www.youtube.com/@NoPriorsPodcast)           | YouTube  |
+| Discover AI                                         | [Link](https://www.youtube.com/@NoPriorsPodcast)           | YouTube  |
+| OpenAI                                             | [Link](https://x.com/OpenAI)                               | Twitter  |
+| DeepMind                                           | [Link](https://x.com/GoogleDeepMind)                       | Twitter  |
+| Andrew Ng                                          | [Link](https://x.com/AndrewYNg)                            | Twitter  |
+| Yann LeCun                                         | [Link](https://x.com/ylecun)                               | Twitter  |
+| Demis Hassabis                                     | [Link](https://x.com/demishassabis)                        | Twitter  |
+| Lex Fridman                                         | [Link](https://x.com/lexfridman)                           | Twitter  |
+| Google AI                                          | [Link](https://x.com/GoogleAI)                             | Twitter  |
+| Towards Data Science                                | [Link](https://x.com/TDataScience)                         | Twitter  |
+| Ian Goodfellow                                      | [Link](https://x.com/goodfellow_ian)                       | Twitter  |
+| Fei-Fei Li                                         | [Link](https://x.com/drfeifei)                             | Twitter  |
+| Andrej Karpathy                                     | [Link](https://x.com/karpathy)                             | Twitter  |
+| Francois Chollet                                    | [Link](https://x.com/fchollet)                             | Twitter  |
+| Jeff Dean                                           | [Link](https://x.com/JeffDean)                             | Twitter  |
+| Geoffrey Hinton                                     | [Link](https://x.com/geoffreyhinton)                       | Twitter  |
+| Timnit Gebru                                       | [Link](https://x.com/timnitgebru)                         | Twitter  |
+| Sebastian Thrun                                     | [Link](https://x.com/SebastianThrun)                       | Twitter  |
+| Anima Anandkumar                                    | [Link](https://x.com/AnimaAnandkumar)                      | Twitter  |
+| AI Now Institute                                    | [Link](https://x.com/AINowInstitute)                       | Twitter  |
+| NVIDIA AI                                          | [Link](https://x.com/NVIDIAAI)                             | Twitter  |
+| Microsoft Research                                  | [Link](https://x.com/MSFTResearch)                         | Twitter  |
+| IBM Research                                        | [Link](https://x.com/IBMResearch)                          | Twitter  |
+| The Gradient                                        | [Link](https://x.com/gradientpub)                          | Twitter  |
+| EleutherAI                                         | [Link](https://x.com/AiEleuther)                           | Twitter  |
+| Fast.ai                                            | [Link](https://x.com/fastdotai)                            | Twitter  |
+| Hugging Face                                       | [Link](https://x.com/huggingface)                          | Twitter  |
+| KDNuggets                                          | [Link](https://x.com/KDNuggets)                            | Twitter  |
+| Google Research                                     | [Link](https://x.com/GoogleResearch)                       | Twitter  |
+| Arxiv                                              | [Link](https://x.com/arxiv)                                | Twitter  |
+| Arxiv Blog                                         | [Link](https://x.com/arxivblog)                            | Twitter  |
+| Rachel Thomas                                       | [Link](https://x.com/math_rachel)                          | Twitter  |
+| MLOps Community                                     | [Link](https://x.com/mlopscommunity)                       | Twitter  |
+| Machine Learning Mastery                            | [Link](https://x.com/TeachTheMachine)                      | Twitter  |
+| DeepLearning.AI                                    | [Link](https://x.com/DeepLearningAI)                       | Twitter  |
+| Sebastian Ruder                                     | [Link](https://x.com/seb_ruder)                            | Twitter  |
+| AK                                                  | [Link](https://x.com/_akhaliq)                             | Twitter  |
+| Stanford AI Lab                                     | [Link](https://x.com/StanfordAILab)                        | Twitter  |
+| Stanford NLP Group                                  | [Link](https://x.com/stanfordnlp)                          | Twitter  |
+| Mustafa Suleyman                                    | [Link](https://x.com/mustafasuleyman)                      | Twitter  |
+| François Chollet                                    | [Link](https://x.com/fchollet)                             | Twitter  |
+
