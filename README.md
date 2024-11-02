@@ -7,11 +7,11 @@ This page is like a roadmap: each section offers handpicked resources to build y
 
 Jump Right In 🚀
 
-🎓 Courses & Tutorials
+🎓 **Courses & Tutorials**
 
-📜 Certifications
+📜 **Certifications**
 
-🤝 Fellowships
+🤝 **Fellowships**
 
 | Name                                                                  | URL                                                                                       | Cost  | Duration    | Platform/Institution                                   | Mode                  | Level                             | Grant Amount                      |
 |-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------|-------|-------------|--------------------------------------------------------|-----------------------|-----------------------------------|------------------------------------|
@@ -34,7 +34,7 @@ Jump Right In 🚀
 | Global AI Safety Research Fellowship 2025                              | [Global AI Safety Fellowship](https://www.axiomfutures.org/)                           | Free  | 8 months    | Impact Academy                                        | In person + Remote    | All                               | Competitive Stipend               |
 
 
-🔗 Resource Collections
+🔗 **Resource Collections**
 
 | Name                                             | Repo URL                                                                                     | Maintained By                       | Collection Type                      |
 |--------------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------------------|--------------------------------------|
@@ -86,15 +86,15 @@ Jump Right In 🚀
 | Prompt Engineering                                | [Link](https://github.com/NirDiamant/Prompt_Engineering)                                   | [NirDiamant](https://github.com/NirDiamant) | Techniques                           |
 | Awesome-LLMOps                                   | [Link](https://github.com/tensorchord/Awesome-LLMOps)                                     | [tensorchord](https://github.com/tensorchord) | Tools                                |
 
-📚 Books & Reading Lists
+📚 **Books & Reading Lists**
 
-🛠 Libraries & Frameworks
+🛠 **Libraries & Frameworks**
 
-🔬 Research Papers & Innovations
+🔬 **Research Papers & Innovations**
 
-🔧 Tools & Experimentation Platforms
+🔧 **Tools & Experimentation Platforms**
 
-📊 Data Sources
+📊 **Data Sources**
 
 | Name                                           | URL                                               |
 |------------------------------------------------|---------------------------------------------------|
@@ -118,13 +118,13 @@ Jump Right In 🚀
 | Huggingface Datasets                           | [huggingface.co/datasets](https://huggingface.co/datasets) |
 
 
-🤝 Communities & Networking
+🤝 **Communities & Networking**
 
-📰 Newsletters & Blogs
+📰 **Newsletters & Blogs**
 
-🎙️ Podcasts & Video Series
+🎙️ **Podcasts & Video Series**
 
-🌐 Channels to Follow
+🌐 **Channels to Follow**
 
 | Name                                                | URL                                                        | Channel  |
 |-----------------------------------------------------|------------------------------------------------------------|----------|
