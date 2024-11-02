@@ -7,9 +7,7 @@ This page is like a roadmap: each section offers handpicked resources to build y
 
 Jump Right In 🚀
 
-# 🎓 **Courses & Tutorials**
-
-# 📜 **Certifications**
+# 🎓 **Courses, Tutorials & Certifications**
 
 # 💰 **Grants, Accelerators & Credits**
 
@@ -112,11 +110,9 @@ Jump Right In 🚀
 | Prompt Engineering                                | [Link](https://github.com/NirDiamant/Prompt_Engineering)                                   | [NirDiamant](https://github.com/NirDiamant) | Techniques                           |
 | Awesome-LLMOps                                   | [Link](https://github.com/tensorchord/Awesome-LLMOps)                                     | [tensorchord](https://github.com/tensorchord) | Tools                                |
 
-📚 **Books & Reading Lists**
+📚 **Research Papers, Books & Reading Lists**
 
 🛠 **Libraries & Frameworks**
-
-🔬 **Research Papers & Innovations**
 
 🔧 **Tools & Experimentation Platforms**
 
