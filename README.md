@@ -309,6 +309,7 @@ Jump Right In 🚀
 | This Day in AI Podcast                              | [Link](https://www.youtube.com/@thisdayinai)               | YouTube  |
 | No Priors: AI, Machine Learning, Tech, & Startups   | [Link](https://www.youtube.com/@NoPriorsPodcast)           | YouTube  |
 | Discover AI                                         | [Link](https://www.youtube.com/@NoPriorsPodcast)           | YouTube  |
+| hu-po                                         | [Link](https://www.youtube.com/@hu-po)           | YouTube  |
 | OpenAI                                             | [Link](https://x.com/OpenAI)                               | Twitter  |
 | DeepMind                                           | [Link](https://x.com/GoogleDeepMind)                       | Twitter  |
 | Andrew Ng                                          | [Link](https://x.com/AndrewYNg)                            | Twitter  |
