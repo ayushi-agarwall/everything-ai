@@ -234,9 +234,9 @@ Jump Right In 🚀
 | 72  | A Survey of Large Language Models                                                          | Zhao et al.                                                                    | [Link](https://arxiv.org/pdf/2303.18223)               | 2024         | Language Models                 | Research Paper  |
 
 
-# 🛠 **Libraries & Frameworks**
+# 🛠 **Libraries & Frameworks** [In-progress]
 
-# 🔧 **Tools & Experimentation Platforms**
+# 🔧 **Tools & Experimentation Platforms** [In-progress]
 
 # 📊 **Data Sources**
 
@@ -262,11 +262,13 @@ Jump Right In 🚀
 | Huggingface Datasets                           | [huggingface.co/datasets](https://huggingface.co/datasets) |
 
 
-# 🤝 **Communities & Networking**
+# 🤝 **Communities & Networking** [In-progress]
 
-# 📰 **Newsletters & Blogs**
+# 📰 **Newsletters & Blogs** [In-progress]
 
-# 🎙️ **Podcasts & Video Series**
+# 🎙️ **Podcasts & Video Series** [In-progress]
+
+# 💼 **Interview Prep** [In-progress]
 
 # 🌐 **Channels to Follow**
 
