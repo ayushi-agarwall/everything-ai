@@ -112,7 +112,8 @@ Jump Right In 🚀
 | Awesome-LLMOps                                          | [Link](https://github.com/tensorchord/Awesome-LLMOps)                                            | [tensorchord](https://github.com/tensorchord)  | Tools                             |
 
 
-📚 **Research Papers, Books & Reading Lists(Must Read)**
+# 📚 **Research Papers, Books & Reading Lists(Must Read)**
+
 
 | No. | Title                                                                                          | Authors                                                                                                                                                         | URL                                                                               | Release Date | Category                  | Type            |
 |-----|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|--------------|---------------------------|-----------------|
@@ -190,9 +191,9 @@ Jump Right In 🚀
 | 72  | A Survey of Large Language Models                                                          | Zhao et al.                                                                    | [Link](https://arxiv.org/pdf/2303.18223)               | 2024         | Language Models                 | Research Paper  |
 
 
-🛠 **Libraries & Frameworks**
+# 🛠 **Libraries & Frameworks**
 
-🔧 **Tools & Experimentation Platforms**
+# 🔧 **Tools & Experimentation Platforms**
 
 # 📊 **Data Sources**
 
