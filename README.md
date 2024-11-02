@@ -73,7 +73,29 @@ Jump Right In 🚀
 
 🔧 Tools & Experimentation Platforms
 
-📊 Datasets 
+📊 Data Sources
+
+| Name                                           | URL                                               |
+|------------------------------------------------|---------------------------------------------------|
+| Kaggle                                         | [kaggle.com/datasets](https://www.kaggle.com/datasets) |
+| UCI Machine Learning Repository                | [archive.ics.uci.edu](https://archive.ics.uci.edu/) |
+| Google Dataset Search                          | [datasetsearch.research.google.com](https://www.datasetsearch.research.google.com) |
+| Data.gov                                       | [data.gov](https://www.data.gov)                  |
+| AWS Open Data Registry                         | [registry.opendata.aws](https://registry.opendata.aws/) |
+| Open Data Portal                               | [data.gov.uk](https://www.data.gov.uk)            |
+| World Bank Data                                | [data.worldbank.org](https://data.worldbank.org/)  |
+| European Data Portal                           | [data.europa.eu/en](https://data.europa.eu/en)    |
+| OpenML                                         | [openml.org](https://www.openml.org)              |
+| Zenodo                                         | [zenodo.org](https://www.zenodo.org)              |
+| City of New York Open Data                     | [opendata.cityofnewyork.us](https://opendata.cityofnewyork.us/) |
+| ImageNet                                       | [image-net.org](http://www.image-net.org)         |
+| CIFAR-10                                       | [cs.toronto.edu/~kriz/cifar.html](http://www.cs.toronto.edu/~kriz/cifar.html) |
+| Awesome Public Datasets Collection             | [github.com/awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) |
+| Stanford Large Network Dataset Collection      | [snap.stanford.edu/data](https://snap.stanford.edu/data/) |
+| Common Crawl                                   | [commoncrawl.org](http://www.commoncrawl.org)     |
+| Global Health Observatory                       | [who.int/data/gho](https://www.who.int/data/gho)  |
+| Huggingface Datasets                           | [huggingface.co/datasets](https://huggingface.co/datasets) |
+
 
 🤝 Communities & Networking
 
